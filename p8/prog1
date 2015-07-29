@@ -1,0 +1,4 @@
+PUSH 3$
+POP$
+WRITE X$
+DIM X$
